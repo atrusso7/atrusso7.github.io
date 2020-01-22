@@ -72,6 +72,10 @@ input, select, textarea {
 	appearance: none;
 }
 
+div {
+  opacity: 0.8;
+}
+
 /* Basic */
 
 	@-ms-viewport {
