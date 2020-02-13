@@ -32,6 +32,9 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+img {
+	z-index: 1;
+}
 
 ol, ul {
 	list-style: none;
@@ -1964,6 +1967,7 @@ input, select, textarea {
 
 	header {
 		text-align: center;
+		z-index: 1;
 	}
 
 		header p {
