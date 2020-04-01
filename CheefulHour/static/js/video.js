@@ -11,7 +11,7 @@ function getRoom() {
   
   // Retrieve the absolute room URL.
   function getRoomURL() {
-    return location.protocol + "//" + location.host + (location.path || "/CheefulHour/index.html") + "?room=" + getRoom();
+    return location.protocol + "//" + location.host + "/CheefulHour/index.html" + "?room=" + getRoom();
   }
   
   // Enable video on the page.
