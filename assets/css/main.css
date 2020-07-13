@@ -145,7 +145,6 @@ input, select, textarea {
 		letter-spacing: 0.125em;
 		line-height: 1.75em;
 		margin-bottom: 1em;
-		text-transform: uppercase;
 		text-align: center;
 	}
 
@@ -1974,7 +1973,6 @@ input, select, textarea {
 			position: relative;
 			top: -1em;
 			color: #888888;
-			text-transform: uppercase;
 			letter-spacing: 0.075em;
 		}
 
